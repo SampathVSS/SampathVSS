@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm a **passionate data enthusiast** with a keen i
     </td>
     <td align="center">
       <strong>Pandas</strong><br/>
-      <img src="https://pandas.pydata.org/static/img/pandas_white.svg" alt="Pandas" width="40" height="40"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" width="40" height="40"/>
     </td>
     <td align="center">
       <strong>Matplotlib</strong><br/>
