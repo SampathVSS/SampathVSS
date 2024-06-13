@@ -75,8 +75,8 @@ Using Tableau to create powerful visualizations and dashboards to present comple
 
 ## 📫 How to Reach Me
 
-- **LinkedIn**: [Your LinkedIn Profile](www.linkedin.com/in/vss2205)
-- **Email**: [youremail@example.com](mailto:vss.sampath@gmail.com)
+- **LinkedIn**: [Profile](www.linkedin.com/in/vss2205)
+- **Email**: [Gmail](mailto:vss.sampath@gmail.com)
 
 
 ## 📈 GitHub Stats
@@ -85,6 +85,4 @@ Using Tableau to create powerful visualizations and dashboards to present comple
 
 ---
 
-Thanks for visiting my profile! Feel free to check out my repositories and get in touch if you'd like to collaborate on any projects.
-
-![Profile Views](https://gpvc.arturio.dev/SampathVSS)
+Thanks for visiting my profile! Feel free to check out my repositories.
