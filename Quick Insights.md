@@ -27,27 +27,12 @@ A business intelligence project utilizing Power BI to create interactive and ins
 ### [Project 4: Data Visualization with Tableau](https://github.com/yourusername/project4)
 Using Tableau to create powerful visualizations and dashboards to present complex data in an easy-to-understand format.
 
-## 🌟 Featured Repositories
-
-- [Awesome Data Science Resources](https://github.com/yourusername/awesome-data-science) - A curated list of resources for learning data science.
-- [Data Cleaning Scripts](https://github.com/yourusername/data-cleaning-scripts) - Scripts and tools for cleaning and preprocessing data.
-
-## 📝 Blog & Articles
-
-- [Medium: My Data Science Journey](https://medium.com/@yourusername)
-- [Personal Blog: Insights and Analyses](https://yourblog.com)
 
 ## 📫 How to Reach Me
 
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourusername)
-- **Twitter**: [@yourusername](https://twitter.com/yourusername)
-- **Email**: [youremail@example.com](mailto:youremail@example.com)
+- **LinkedIn**: [Your LinkedIn Profile](www.linkedin.com/in/vss2205)
+- **Email**: [youremail@example.com](mailto:vss.sampath@gmail.com)
 
-## ⚡ Fun Facts
-
-- I'm a self-taught data enthusiast with a background in [Your Background].
-- In my free time, I enjoy [Your Hobbies], and exploring the latest trends in data science and machine learning.
-- Always eager to collaborate on exciting projects and learn new skills.
 
 ## 📈 GitHub Stats
 
