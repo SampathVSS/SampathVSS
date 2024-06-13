@@ -57,16 +57,6 @@ Welcome to my GitHub profile! I'm a **passionate data enthusiast** with a keen i
   </tr>
 </table>
 
-### Others
-
-<table>
-  <tr>
-    <td align="center">
-      <strong>Google AppSheet</strong><br/>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Google_AppSheet.svg" alt="Google AppSheet" width="40" height="40"/>
-    </td>
-  </tr>
-</table>
 
 ## 📊 Projects
 
