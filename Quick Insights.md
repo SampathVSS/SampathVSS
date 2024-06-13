@@ -87,4 +87,4 @@ Using Tableau to create powerful visualizations and dashboards to present comple
 
 Thanks for visiting my profile! Feel free to check out my repositories and get in touch if you'd like to collaborate on any projects.
 
-![Profile Views](https://gpvc.arturio.dev/yourusername)
+![Profile Views](https://gpvc.arturio.dev/SampathVSS)
