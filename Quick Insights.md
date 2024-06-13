@@ -4,12 +4,14 @@ Welcome to my GitHub profile! I'm a **passionate data enthusiast** with a keen i
 
 ## 🚀 Skills
 
-![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png) **MySQL**  
-![Pandas](https://img.icons8.com/ios-filled/50/000000/pandas.png) **Pandas**  
-![Matplotlib](https://matplotlib.org/_static/images/logo2.svg) **Matplotlib**  
-![Seaborn](https://seaborn.pydata.org/_static/logo-wide-lightbg.svg) **Seaborn**  
-![Power BI](https://img.icons8.com/color/48/000000/power-bi.png) **Power BI**  
-![Tableau](https://img.icons8.com/color/48/000000/tableau-software.png) **Tableau**
+<p align="left">
+  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" width="40" height="40"/> 
+  <img src="https://pandas.pydata.org/static/img/pandas_white.svg" alt="Pandas" width="40" height="40"/> 
+  <img src="https://matplotlib.org/_static/images/logo2.svg" alt="Matplotlib" width="40" height="40"/>
+  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="100" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" width="40" height="40"/> 
+  <img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="Tableau" width="40" height="40"/>
+</p>
 
 ## 📊 Projects
 
