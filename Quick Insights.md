@@ -7,6 +7,10 @@ Welcome to my GitHub profile! I'm a **passionate data enthusiast** with a keen i
 <table>
   <tr>
     <td align="center">
+      <strong>Python</strong><br/>
+      <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="40" height="40"/>
+    </td>
+    <td align="center">
       <strong>MySQL</strong><br/>
       <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" width="40" height="40"/>
     </td>
@@ -22,6 +26,16 @@ Welcome to my GitHub profile! I'm a **passionate data enthusiast** with a keen i
       <strong>Seaborn</strong><br/>
       <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="100" height="40"/>
     </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <strong>Advanced Excel</strong><br/>
+      <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png" alt="Excel" width="40" height="40"/>
+    </td>
+    <td align="center">
+      <strong>Google AppSheet</strong><br/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Google_AppSheet.svg" alt="Google AppSheet" width="40" height="40"/>
+    </td>
     <td align="center">
       <strong>Power BI</strong><br/>
       <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" width="40" height="40"/>
@@ -32,7 +46,6 @@ Welcome to my GitHub profile! I'm a **passionate data enthusiast** with a keen i
     </td>
   </tr>
 </table>
-
 
 ## 📊 Projects
 
