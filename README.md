@@ -2,5 +2,5 @@
 
 SampathVss this side | Passionate Data Analyst
 
-![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png
+https://img.icons8.com/color/48/000000/mysql-logo.png
 
