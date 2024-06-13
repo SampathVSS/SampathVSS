@@ -4,14 +4,35 @@ Welcome to my GitHub profile! I'm a **passionate data enthusiast** with a keen i
 
 ## 🚀 Skills
 
-<p align="left">
-  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" width="40" height="40"/> 
-  <img src="https://pandas.pydata.org/static/img/pandas_white.svg" alt="Pandas" width="40" height="40"/> 
-  <img src="https://matplotlib.org/_static/images/logo2.svg" alt="Matplotlib" width="40" height="40"/>
-  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="100" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" width="40" height="40"/> 
-  <img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="Tableau" width="40" height="40"/>
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <strong>MySQL</strong><br/>
+      <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" width="40" height="40"/>
+    </td>
+    <td align="center">
+      <strong>Pandas</strong><br/>
+      <img src="https://pandas.pydata.org/static/img/pandas_white.svg" alt="Pandas" width="40" height="40"/>
+    </td>
+    <td align="center">
+      <strong>Matplotlib</strong><br/>
+      <img src="https://matplotlib.org/_static/images/logo2.svg" alt="Matplotlib" width="40" height="40"/>
+    </td>
+    <td align="center">
+      <strong>Seaborn</strong><br/>
+      <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="100" height="40"/>
+    </td>
+    <td align="center">
+      <strong>Power BI</strong><br/>
+      <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" width="40" height="40"/>
+    </td>
+    <td align="center">
+      <strong>Tableau</strong><br/>
+      <img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="Tableau" width="40" height="40"/>
+    </td>
+  </tr>
+</table>
+
 
 ## 📊 Projects
 
