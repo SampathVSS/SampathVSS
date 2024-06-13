@@ -1,4 +1,4 @@
-## Hello World 👋 SampathVss this side | Passionate Data Analyst
+## Hello World 👋 SampathVSS this side | Passionate Data Analyst
 
 
 
