@@ -75,8 +75,8 @@ Using Tableau to create powerful visualizations and dashboards to present comple
 
 ## 📫 How to Reach Me
 
-- [**LinkedIn**](www.linkedin.com/in/vss2205)
-- [**Email**](mailto:vss.sampath@gmail.com)
+- **LinkedIn** : www.linkedin.com/in/vss2205
+- **Email**    : vss.sampath@gmail.com
 
 
 ## 📈 GitHub Stats
