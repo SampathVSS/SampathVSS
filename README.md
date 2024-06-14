@@ -60,7 +60,7 @@ Welcome to my GitHub profile! I'm a **passionate data enthusiast** with a keen i
 
 ## 📊 Projects
 
-### ![Project 1: Data Analysis using MySQL](https://github.com/SampathVSS/DataAnalysis-IPL-Datasets-2008-to-2017/wiki)
+### [Project 1: Data Analysis using MySQL](https://github.com/SampathVSS/DataAnalysis-IPL-Datasets-2008-to-2017/wiki)
 A comprehensive data analysis project using MySQL to manipulate and visualize the dataset.
 
 
