@@ -60,17 +60,8 @@ Welcome to my GitHub profile! I'm a **passionate data enthusiast** with a keen i
 
 ## 📊 Projects
 
-### [Project 1: Data Analysis with Pandas](https://github.com/yourusername/project1)
-A comprehensive data analysis project using Pandas to clean, analyze, and visualize a dataset.
-
-### [Project 2: Visualizing Data with Matplotlib & Seaborn](https://github.com/yourusername/project2)
-This project involves creating detailed visualizations using Matplotlib and Seaborn to convey data insights effectively.
-
-### [Project 3: Business Intelligence with Power BI](https://github.com/yourusername/project3)
-A business intelligence project utilizing Power BI to create interactive and insightful dashboards.
-
-### [Project 4: Data Visualization with Tableau](https://github.com/yourusername/project4)
-Using Tableau to create powerful visualizations and dashboards to present complex data in an easy-to-understand format.
+### [Project 1: Data Analysis using MySQL]([https://github.com/yourusername/project1](https://github.com/SampathVSS/DataAnalysis-IPL-Datasets-2008-to-2017/wiki))
+A comprehensive data analysis project using MySQL to manipulate and visualize the dataset.
 
 
 ## 📫 How to Reach Me
