@@ -63,8 +63,12 @@ Welcome to my GitHub profile! I'm a **passionate data enthusiast** with a keen i
 ### [Project 1: Data Analysis using MySQL](https://github.com/SampathVSS/DataAnalysis-IPL-Datasets-2008-to-2017/wiki)
 A comprehensive data analysis project using MySQL to manipulate and visualize the dataset.
 
-### [Project 2: Data Analysis using Tableau](https://github.com/SampathVSS/DataAnalysis-IPL-Datasets-2008-to-2017-Tableau/wiki)
+### [Project 2: Data Analysis using Python Libraries](https://github.com/SampathVSS/DataAnalysis-IPL-Datasets-2008-to-2017-Python-Libraries/wiki)
+A comprehensive data analysis project using Python Libraries to manipulate and visualize the dataset.
+
+### [Project 3: Data Analysis using Tableau](https://github.com/SampathVSS/DataAnalysis-IPL-Datasets-2008-to-2017-Tableau/wiki)
 A comprehensive data analysis project using Tableau to manipulate and visualize the dataset.
+
 
 
 ## 📫 How to Reach Me
