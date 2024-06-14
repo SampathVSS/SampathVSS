@@ -76,4 +76,4 @@ A comprehensive data analysis project using MySQL to manipulate and visualize th
 
 ---
 
-Thanks for visiting my profile! Feel free to check out my repositories.
+Looking for a one-stop solution for your data customization and management? Just hit me up!
