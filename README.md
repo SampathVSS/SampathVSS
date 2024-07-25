@@ -65,14 +65,11 @@ Descriptive Analysis of the datasets and drawing insights from match level, team
 
 **Tools Used**
 
-- **MySQL**
-  - **Repository Link:** [Repository Link](https://github.com/SampathVSS/DataAnalysis-IPL-Datasets-2008-to-2017-MySQL)
+- **MySQL** : [Repository Link](https://github.com/SampathVSS/DataAnalysis-IPL-Datasets-2008-to-2017-MySQL)
 
-- **Tableau**
-  - **Repository Link:** [Repository Link](https://github.com/SampathVSS/DataAnalysis-IPL-Datasets-2008-to-2017-Tableau)
+- **Tableau** : [Repository Link](https://github.com/SampathVSS/DataAnalysis-IPL-Datasets-2008-to-2017-Tableau)
 
-- **Matplotlib & Seaborn**
-  - **Repository Link:** [Repository Link](https://github.com/SampathVSS/DataAnalysis-IPL-Datasets-2008-to-2017-Matplotlib-Seaborn)
+- **Matplotlib & Seaborn** : [Repository Link](https://github.com/SampathVSS/DataAnalysis-IPL-Datasets-2008-to-2017-Matplotlib-Seaborn)
 
 ## 📫 How to Reach Me
 
