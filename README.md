@@ -13,12 +13,12 @@ Welcome to my GitHub profile! I'm a **passionate data enthusiast** with a keen i
       <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" width="40" height="40"/>
     </td>
     <td align="center">
-      <strong>Google BigQuery</strong><br/>
-      <img src="https://img.icons8.com/color/48/000000/google-cloud.png" alt="Google BigQuery" width="40" height="40"/>
-    </td>
-    <td align="center">
       <strong>MongoDB</strong><br/>
       <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="40" height="40"/>
+    </td>
+    <td align="center">
+      <strong>Google BigQuery</strong><br/>
+      <img src="https://img.icons8.com/color/48/000000/google-cloud.png" alt="Google BigQuery" width="40" height="40"/>
     </td>
   </tr>
 </table>
@@ -47,24 +47,24 @@ Welcome to my GitHub profile! I'm a **passionate data enthusiast** with a keen i
 <table>
   <tr>
     <td align="center">
-      <strong>Seaborn</strong><br/>
-      <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="100" height="40"/>
-    </td>
-    <td align="center">
-      <strong>Matplotlib</strong><br/>
-      <img src="https://matplotlib.org/_static/images/logo2.svg" alt="Matplotlib" width="40" height="40"/>
+      <strong>NumPy</strong><br/>
+      <img src="https://numpy.org/images/logo.svg" alt="NumPy" width="40" height="40"/>
     </td>
     <td align="center">
       <strong>Pandas</strong><br/>
       <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" width="40" height="40"/>
     </td>
     <td align="center">
-      <strong>PyMongo</strong><br/>
-      <img src="https://raw.githubusercontent.com/mongodb/mongo-python-driver/master/docs/printable-pymongo-logo.png" alt="PyMongo" width="40" height="40"/>
+      <strong>Matplotlib</strong><br/>
+      <img src="https://matplotlib.org/_static/images/logo2.svg" alt="Matplotlib" width="40" height="40"/>
     </td>
     <td align="center">
-      <strong>NumPy</strong><br/>
-      <img src="https://numpy.org/images/logo.svg" alt="NumPy" width="40" height="40"/>
+      <strong>Seaborn</strong><br/>
+      <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="100" height="40"/>
+    </td>
+    <td align="center">
+      <strong>PyMongo</strong><br/>
+      <img src="https://cdn.jsdelivr.net/gh/pythonic-picasso/pymongo/pymongo.png" alt="PyMongo" width="40" height="40"/>
     </td>
   </tr>
 </table>
