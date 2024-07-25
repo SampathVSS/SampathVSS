@@ -65,9 +65,9 @@ Descriptive Analysis of the datasets and drawings the insights from match level,
 
 **Tools Used**
 
-MySQL:
-Tableau:
-Matplotlib & Seaborn:
+MySQL:  
+Tableau:  
+Matplotlib & Seaborn:  
 
 
 ## 📫 How to Reach Me
