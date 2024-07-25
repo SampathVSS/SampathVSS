@@ -61,22 +61,23 @@ Welcome to my GitHub profile! I'm a **passionate data enthusiast** with a keen i
 ## 📊 Projects
 
 ### [Project 1: Data Analysis using MySQL](https://github.com/SampathVSS/DataAnalysis-IPL-Datasets-2008-to-2017/wiki)
-Descriptive Analysis of the datasets and drawings the insights from match level, team level and individual level performance
+Descriptive Analysis of the datasets and drawing insights from match level, team level, and individual level performance
 
 **Tools Used**
 
-### MySQL - [MySQL]([https://github.com/mysql/mysql-server](https://github.com/SampathVSS/DataAnalysis-IPL-Datasets-2008-to-2017-MySQL))
+- **MySQL**
+  - **Repository Link:** [MySQL](https://github.com/SampathVSS/DataAnalysis-IPL-Datasets-2008-to-2017-MySQL)
 
-### Tableau- **Repository Link** [Tableau]([https://www.tableau.com/](https://github.com/SampathVSS/DataAnalysis-IPL-Datasets-2008-to-2017-Tableau))
+- **Tableau**
+  - **Repository Link:** [Tableau](https://github.com/SampathVSS/DataAnalysis-IPL-Datasets-2008-to-2017-Tableau)
 
-### Matplotlib & Seaborn - **Repository Link** [Matplotlib & Seaborn](**https://github.com/matplotlib/matplotlib**)
-
+- **Matplotlib & Seaborn**
+  - **Repository Link:** [Matplotlib & Seaborn](https://github.com/SampathVSS/DataAnalysis-IPL-Datasets-2008-to-2017-Matplotlib-Seaborn)
 
 ## 📫 How to Reach Me
 
-- **LinkedIn** : www.linkedin.com/in/vss2205
-- **Email**    : vss.sampath@gmail.com
-
+- **LinkedIn** : [www.linkedin.com/in/vss2205](https://www.linkedin.com/in/vss2205)
+- **Email**    : [vss.sampath@gmail.com](mailto:vss.sampath@gmail.com)
 
 ## 📈 GitHub Stats
 
