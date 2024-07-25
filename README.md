@@ -65,18 +65,11 @@ Descriptive Analysis of the datasets and drawings the insights from match level,
 
 **Tools Used**
 
-### MySQL
-![MySQL Logo](https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/MySQL_logo.svg/320px-MySQL_logo.svg.png)
-- **GitHub Repository:** [MySQL](https://github.com/mysql/mysql-server)
+### MySQL - **Repository Link** [MySQL]([https://github.com/mysql/mysql-server](https://github.com/SampathVSS/DataAnalysis-IPL-Datasets-2008-to-2017-MySQL))
 
-### Tableau
-![Tableau Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Tableau_Logo.png/320px-Tableau_Logo.png)
-- **Official Website:** [Tableau](https://www.tableau.com/)
+### Tableau- **Repository Link** [Tableau]([https://www.tableau.com/](https://github.com/SampathVSS/DataAnalysis-IPL-Datasets-2008-to-2017-Tableau))
 
-### Matplotlib & Seaborn
-
-![Matplotlib Logo](https://matplotlib.org/stable/_static/images/logo2.svg)
-- **GitHub Repository:** [Matplotlib](https://github.com/matplotlib/matplotlib)
+### Matplotlib & Seaborn - **Repository Link** [Matplotlib & Seaborn](**https://github.com/matplotlib/matplotlib**)
 
 
 ## 📫 How to Reach Me
