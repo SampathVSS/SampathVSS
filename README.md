@@ -65,7 +65,7 @@ Descriptive Analysis of the datasets and drawings the insights from match level,
 
 **Tools Used**
 
-### MySQL - **Repository Link** [MySQL]([https://github.com/mysql/mysql-server](https://github.com/SampathVSS/DataAnalysis-IPL-Datasets-2008-to-2017-MySQL))
+### MySQL - [MySQL]([https://github.com/mysql/mysql-server](https://github.com/SampathVSS/DataAnalysis-IPL-Datasets-2008-to-2017-MySQL))
 
 ### Tableau- **Repository Link** [Tableau]([https://www.tableau.com/](https://github.com/SampathVSS/DataAnalysis-IPL-Datasets-2008-to-2017-Tableau))
 
