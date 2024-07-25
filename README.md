@@ -20,6 +20,10 @@ Welcome to my GitHub profile! I'm a **passionate data enthusiast** with a keen i
       <strong>Advanced Excel</strong><br/>
       <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png" alt="Advanced Excel" width="40" height="40"/>
     </td>
+    <td align="center">
+      <strong>MongoDB</strong><br/>
+      <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="40" height="40"/>
+    </td>
   </tr>
 </table>
 
@@ -53,6 +57,10 @@ Welcome to my GitHub profile! I'm a **passionate data enthusiast** with a keen i
     <td align="center">
       <strong>Pandas</strong><br/>
       <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" width="40" height="40"/>
+    </td>
+    <td align="center">
+      <strong>PyMongo</strong><br/>
+      <img src="https://raw.githubusercontent.com/mongodb/mongo-python-driver/master/docs/printable-pymongo-logo.png" alt="PyMongo" width="40" height="40"/>
     </td>
   </tr>
 </table>
