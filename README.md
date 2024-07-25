@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a **passionate data enthusiast** with a keen i
 
 ## 🚀 Skills
 
-### Data Manipulation
+### Database
 
 <table>
   <tr>
