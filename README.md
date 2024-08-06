@@ -72,10 +72,15 @@ Welcome to my GitHub profile! I'm a **passionate data enthusiast** with a keen i
 
 ## 📊 Projects
 
-### [Project 1: Data Analysis using MySQL](https://github.com/SampathVSS/DataAnalysis-IPL-Datasets-2008-to-2017/wiki)
+### [Project 1: IPL Datasets Analysis](https://github.com/SampathVSS/DataAnalysis-IPL-Datasets-2008-to-2017/wiki)
 Conducted comprehensive data analysis on IPL match datasets from 2008 to 2017. Utilized data cleaning, processing, and visualization techniques to extract insights. Key findings included player performance metrics, team win/loss patterns, and venue-specific trends.
 
 **Tools Used** : _MySQL, Tableau, Power BI, Matplotlib, Seaborn_
+
+## 📊 Skill Wise Repositories
+
+**MySQL**
+- [IPL DataSets Analysis]((https://github.com/SampathVSS/DataAnalysis-IPL-Datasets-2008-to-2017/wiki/Data-Analysis-and-Insights-%7C-MySQL))
 
 ## 📫 How to Reach Me
 
