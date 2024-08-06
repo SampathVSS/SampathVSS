@@ -82,6 +82,16 @@ Conducted comprehensive data analysis on IPL match datasets from 2008 to 2017. U
 **MySQL**
 - [IPL DataSets Analysis](https://github.com/SampathVSS/DataAnalysis-IPL-Datasets-2008-to-2017/wiki/Data-Analysis-and-Insights-%7C-MySQL)
 
+**Python Libraries**
+- [IPL DataSets Analysis](https://github.com/SampathVSS/DataAnalysis-IPL-Datasets-2008-to-2017/wiki/Data-Analysis-and-Insights-%7C-Python-Libraries)
+
+**Tableau**
+- [IPL DataSets Analysis](https://github.com/SampathVSS/DataAnalysis-IPL-Datasets-2008-to-2017/wiki/Data-Analysis-and-Insights-%7C-Tableau)
+
+**Power BI**
+- [IPL DataSets Analysis](https://github.com/SampathVSS/DataAnalysis-IPL-Datasets-2008-to-2017/wiki/Data-Analysis-and-Insights-%7C-Power-BI)
+
+  
 ## 📫 How to Reach Me
 
 - **LinkedIn** : [www.linkedin.com/in/vss2205](https://www.linkedin.com/in/vss2205)
