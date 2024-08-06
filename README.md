@@ -80,7 +80,7 @@ Conducted comprehensive data analysis on IPL match datasets from 2008 to 2017. U
 ## 📊 Skill Wise Repositories
 
 **MySQL**
-- [IPL DataSets Analysis]((https://github.com/SampathVSS/DataAnalysis-IPL-Datasets-2008-to-2017/wiki/Data-Analysis-and-Insights-%7C-MySQL))
+- [IPL DataSets Analysis](https://github.com/SampathVSS/DataAnalysis-IPL-Datasets-2008-to-2017/wiki/Data-Analysis-and-Insights-%7C-MySQL)
 
 ## 📫 How to Reach Me
 
